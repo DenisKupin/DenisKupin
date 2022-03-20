@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DenisKupin
 - 👀 I’m interested in design
 - 🌱 I’m currently learning UI/UX Design
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://t.me/Dekupich
 
 <!---
